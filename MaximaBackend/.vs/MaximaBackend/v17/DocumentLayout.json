@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\tests\\produtoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\tests\\produtoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\tests\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\tests\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\services\\iprodutointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\services\\iprodutointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\services\\idepartamentointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\services\\idepartamentointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\dto\\produtoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\dto\\produtoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\dto\\produtocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\dto\\produtocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\dto\\dtoprodutocomdepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\dto\\dtoprodutocomdepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|c:\\users\\victor\\desktop\\projetosangular\\maximatech\\maximabackend\\maximabackend\\maximabackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{147B2028-80BA-483B-AF1B-4A9F9E4939B2}|MaximaBackend\\MaximaBackend.csproj|solutionrelative:maximabackend\\maximabackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProdutoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Services\\IProdutoInterface.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Services\\IProdutoInterface.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Services\\IProdutoInterface.cs",
+              "RelativeToolTip": "MaximaBackend\\Services\\IProdutoInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:26:53.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "MaximaBackend\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:26:33.781Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Services\\DepartamentoService.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Services\\DepartamentoService.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Services\\DepartamentoService.cs",
+              "RelativeToolTip": "MaximaBackend\\Services\\DepartamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:27:50.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDepartamentoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Services\\IDepartamentoInterface.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Services\\IDepartamentoInterface.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Services\\IDepartamentoInterface.cs",
+              "RelativeToolTip": "MaximaBackend\\Services\\IDepartamentoInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:27:28.471Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Models\\Departamento.cs",
+              "RelativeToolTip": "MaximaBackend\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:08:22.009Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "MaximaBackend\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:28:49.245Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "MaximaBackend\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwIAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:28:24.969Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Program.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Program.cs",
+              "RelativeToolTip": "MaximaBackend\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAWwEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:35:22.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Models\\Produto.cs",
+              "RelativeToolTip": "MaximaBackend\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T01:27:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Dto\\ProdutoUpdateDto.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Dto\\ProdutoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Dto\\ProdutoUpdateDto.cs",
+              "RelativeToolTip": "MaximaBackend\\Dto\\ProdutoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:40:46.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Tests\\ProdutoServiceTests.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Tests\\ProdutoServiceTests.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Tests\\ProdutoServiceTests.cs",
+              "RelativeToolTip": "MaximaBackend\\Tests\\ProdutoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T21:56:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Tests\\ProdutoControllerTests.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Tests\\ProdutoControllerTests.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Tests\\ProdutoControllerTests.cs",
+              "RelativeToolTip": "MaximaBackend\\Tests\\ProdutoControllerTests.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwCsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T21:59:55.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Dto\\ProdutoCreateDto.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Dto\\ProdutoCreateDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Dto\\ProdutoCreateDto.cs",
+              "RelativeToolTip": "MaximaBackend\\Dto\\ProdutoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:44:21.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DtoProdutoComDepartamento.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Dto\\DtoProdutoComDepartamento.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Dto\\DtoProdutoComDepartamento.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Dto\\DtoProdutoComDepartamento.cs",
+              "RelativeToolTip": "MaximaBackend\\Dto\\DtoProdutoComDepartamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:40:18.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Data\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "MaximaBackend\\Data\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\Data\\DatabaseInitializer.cs",
+              "RelativeToolTip": "MaximaBackend\\Data\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:30:15.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "MaximaBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\appsettings.json",
+              "RelativeToolTip": "MaximaBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T12:32:01.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MaximaBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\MaximaBackend.csproj",
+              "RelativeDocumentMoniker": "MaximaBackend\\MaximaBackend.csproj",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\ProjetosAngular\\MaximaTech\\MaximaBackend\\MaximaBackend\\MaximaBackend.csproj",
+              "RelativeToolTip": "MaximaBackend\\MaximaBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T11:43:44.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
