@@ -22,7 +22,8 @@ Este documento descreve o processo de instalação do sistema, incluindo a confi
 - Node.js (>= 18 LTS)
 - Angular CLI instalado globalmente:
   ```bash
-  npm install -g @angular/cli
+  npm install
+  ng serve
   ```
 
 ---
