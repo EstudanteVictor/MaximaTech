@@ -54,6 +54,8 @@ dotnet run
 ```
 
 A API estará disponível em:  
+👉 [https://localhost:7251/index.html](https://localhost:7251) (via Swagger)
+ou
 👉 [https://localhost:7251/index.html](https://localhost:7251/index.html) (via Swagger)
 
 ### Estrutura de Pastas da API
