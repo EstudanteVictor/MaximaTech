@@ -96,7 +96,7 @@ ECommerceAPI/
 ## 5. Instalação e Execução do Frontend
 
 ```bash
-cd MaximaTech/frontend
+cd MaximaTech/ExercicioMaxima
 npm install
 ```
 
@@ -158,7 +158,7 @@ dotnet test
 ### Frontend (Jasmine/Karma)
 
 ```bash
-cd MaximaTech/frontend
+cd MaximaTech/ExercicioMaxima
 ng test
 ```
 
